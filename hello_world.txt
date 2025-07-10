@@ -1,1 +1,3 @@
 I'm not sure what to write here because I'm just practicing. I might have forgotten my password...
+Turns out I didn't forget my password. I just had my email on private so it wasn't letting me push things onto Github.
+I fixed it though!
